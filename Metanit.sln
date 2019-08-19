@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Пеегрузка_Мето
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Static", "..\Static\Static.csproj", "{D934EA96-0CFC-4441-A908-AC44EB6C3676}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Перегрузка_Операторов", "..\Перегрузка_Операторов\Перегрузка_Операторов.csproj", "{6DB2CA87-1BB7-4C5B-8D14-984FA305F5E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Перегрузка_Операторов", "..\Перегрузка_Операторов\Перегрузка_Операторов.csproj", "{6DB2CA87-1BB7-4C5B-8D14-984FA305F5E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Перегрузка_операций_преобр_типов", "..\Перегрузка_операций_преобр_типов\Перегрузка_операций_преобр_типов.csproj", "{316A2577-E7AE-411B-A4F6-DEBE83BE75A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Перегрузка_операций_преобр_типов", "..\Перегрузка_операций_преобр_типов\Перегрузка_операций_преобр_типов.csproj", "{316A2577-E7AE-411B-A4F6-DEBE83BE75A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Преобр-е_типов", "Преобр-е_типов\Преобр-е_типов.csproj", "{D4646F46-85A4-4C92-93AD-5EE6B1FA0A70}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{316A2577-E7AE-411B-A4F6-DEBE83BE75A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{316A2577-E7AE-411B-A4F6-DEBE83BE75A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{316A2577-E7AE-411B-A4F6-DEBE83BE75A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4646F46-85A4-4C92-93AD-5EE6B1FA0A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4646F46-85A4-4C92-93AD-5EE6B1FA0A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4646F46-85A4-4C92-93AD-5EE6B1FA0A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4646F46-85A4-4C92-93AD-5EE6B1FA0A70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
